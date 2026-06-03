@@ -1,4 +1,4 @@
-# Vrinda-Store-Data-Analysis
+
 # Vrinda Store Data Analytics Project (Annual Sales Report 2022)
 
 ## Project Objective
